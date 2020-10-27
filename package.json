@@ -1,0 +1,18 @@
+{
+  "name": "snow-web-app-starter",
+  "version": "0.0.1",
+  "description": "snow web app starter",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "webpack --mode production -c",
+    "dev": "webpack --mode development -c"
+  },
+  "keywords": [],
+  "author": "zhuxp",
+  "license": "GPL",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "latest",
+    "webpack-cli": "^3.3.10"
+  }
+}
